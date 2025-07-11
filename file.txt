@@ -2,6 +2,7 @@ commit1
 commit2
 commit3
 test_commit_4
+test_commit
 
 master_commit
 master_commit_2
