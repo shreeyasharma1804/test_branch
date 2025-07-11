@@ -4,3 +4,4 @@ commit3
 test_commit_4
 
 master_commit
+master_commit_2
