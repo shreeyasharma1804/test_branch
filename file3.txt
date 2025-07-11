@@ -1,2 +1,4 @@
 master_file3
-master_file_3_commit_2
+master_file_3_commit_2\
+
+final
